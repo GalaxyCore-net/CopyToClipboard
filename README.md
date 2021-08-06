@@ -5,4 +5,4 @@ Website to Copy a Text to the Clipboard
 Because we need this Feature on our Server.
 
 ## How 2 Use?
-Just open https://ctc.galaxycore.now?cp=thiswillbecopied&btntext=Copy and you are done.
+Just open https://ctc.galaxycore.net?cp=thiswillbecopied&btntext=Copy and you are done.
